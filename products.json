@@ -5,7 +5,7 @@
             "price": "$28",
             "description": "John Green, the #1 bestselling author of The Anthropocene Reviewed and a passionate advocate for global healthcare reform, tells a deeply human story illuminating the fight against the world’s deadliest disease.",
             "categories": {
-                "category": "Books"
+                "category": ["Books"]
             }
         },
         {
@@ -35,7 +35,7 @@
             "price": "$23.20",
             "description": "Pack contains 8 Family Rolls of Bounty white Quick Size Paper Towels",
             "categories": {
-                "category": "Household Supplies"
+                "category": ["Household Supplies"]
             }
         },
         {
@@ -43,7 +43,7 @@
             "price": "$21.99",
             "description": "10 pound dumbbell (set of 2) for exercise and strength training",
             "categories": {
-                "category": "Sports and Outdoor"
+                "category": ["Sports and Outdoor"]
             }
         },
         {
@@ -62,7 +62,7 @@
             "price": "$20",
             "description": "Brushed interior provides superior cozy softness.",
             "categories": {
-                "category": "Clothing and Shoes"
+                "category": ["Clothing and Shoes"]
             }
         },
         {
@@ -70,7 +70,7 @@
             "price": "$13.99",
             "description": "High Density Foam Roller for Exercise and Recovery",
             "categories": {
-                "category": "Sports and Outdoor"
+                "category": ["Sports and Outdoor"]
             }
         }
     ]
